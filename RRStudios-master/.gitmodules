@@ -1,0 +1,6 @@
+[submodule "Alamofire"]
+	path = Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
+[submodule "StreamLine/Alamofire"]
+	path = StreamLine/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
